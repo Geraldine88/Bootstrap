@@ -1,0 +1,87 @@
+
+
+p{
+	text-align: center;
+}
+
+h1{
+	color: black;
+	text-align: center;
+	font-size: 500%;
+	padding-top: 10%;
+	font-family: sans-serif;
+}
+.blue{
+	color: blue;
+}
+.red{
+	color: red;
+}
+.green{
+	color: green;
+}
+.yellow{
+	color:yellow;
+}
+
+form{
+
+	text-align: center;
+	
+	font-size: 450%;
+	
+}
+input{
+	border-radius: 20px;
+
+}
+#navbar{
+	display: flex-inline;
+	text-align:right;/*this works only for the texts*/
+	margin-left: 800px;
+	padding: 20px 20px 20px 20px;
+}
+
+
+/*.footer{
+	text-align: right;
+}
+*/
+.cam{
+	text-align: left;
+	margin-right: 800px;
+	display: inline-flex;
+	padding-left: 3%;
+}
+
+footer{
+	background-color: #D0D0D0;
+}
+
+.footer{
+	display: flex;
+}
+
+.box1 ul li{
+	display: inline;
+	margin-left: 0px;
+	padding: 1% 0% 1% 0%;/*top left bottom right*/
+}
+
+.box2 ul li{
+	display: inline;
+	padding: 1% 0% 1% 0%;
+}
+
+.box2 {
+	margin-left: 750px;
+}
+
+li>a{
+	text-decoration: none;
+}
+
+a{
+	text-decoration: none;
+}
+
